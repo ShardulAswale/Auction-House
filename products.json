@@ -1,0 +1,152 @@
+{
+    "products": [
+      {
+        "id": 101,
+        "name": "item 1",
+        "description": "auction item 1",
+        "baseprice": 1000,
+        "currentprice": 2000,
+        "bids": [
+          {
+            "id": 2,
+            "pid": 101,
+            "value": 2000
+          },
+          {
+            "id": 1,
+            "pid": 102,
+            "value": 1000
+          }
+        ]
+      },
+      {
+        "id": 102,
+        "name": "item 2",
+        "description": "auction item 2",
+        "baseprice": 2500,
+        "currentprice": 11100,
+        "bids": [
+          {
+            "id": 16,
+            "pid": 102,
+            "value": 11100
+          },
+          {
+            "id": 15,
+            "pid": 101,
+            "value": 11000
+          },
+          {
+            "id": 14,
+            "pid": 102,
+            "value": 10900
+          },
+          {
+            "id": 13,
+            "pid": 101,
+            "value": 10800
+          },
+          {
+            "id": 12,
+            "pid": 102,
+            "value": 10700
+          },
+          {
+            "id": 11,
+            "pid": 101,
+            "value": 10600
+          },
+          {
+            "id": 10,
+            "pid": 102,
+            "value": 10500
+          },
+          {
+            "id": 9,
+            "pid": 101,
+            "value": 10400
+          },
+          {
+            "id": 8,
+            "pid": 102,
+            "value": 10300
+          },
+          {
+            "id": 7,
+            "pid": 101,
+            "value": 10200
+          },
+          {
+            "id": 6,
+            "pid": 102,
+            "value": 9100
+          },
+          {
+            "id": 5,
+            "pid": 101,
+            "value": 6000
+          },
+          {
+            "id": 4,
+            "pid": 102,
+            "value": 5000
+          },
+          {
+            "id": 3,
+            "pid": 101,
+            "value": 4000
+          },
+          {
+            "id": 2,
+            "pid": 102,
+            "value": 3000
+          },
+          {
+            "id": 1,
+            "pid": 101,
+            "value": 2500
+          }
+        ]
+      },
+      {
+        "id": 103,
+        "name": "item 3",
+        "description": "auction item 3",
+        "baseprice": 2000,
+        "currentprice": 8000,
+        "bids": [
+          {
+            "id": 3,
+            "pid": 101,
+            "value": 8000
+          },
+          {
+            "id": 2,
+            "pid": 102,
+            "value": 7000
+          },
+          {
+            "id": 1,
+            "pid": 101,
+            "value": 5000
+          }
+        ]
+      }
+    ],
+    "users": [
+      {
+        "pid": 101,
+        "username": "Amit",
+        "password": "Amit",
+        "fname": "Amit",
+        "lname": "Bhatiya"
+      },
+      {
+        "pid": 102,
+        "username": "Jacob",
+        "password": "Jacob",
+        "fname": "Jacob",
+        "lname": "Disouza"
+      }
+    ]
+  }
