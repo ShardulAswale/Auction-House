@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Getting Started with Auction App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simulation of an auction house
+
+Created using : 
+React - frontend
+JSON server - backend 
+MUI - styling
 
 ## Available Scripts
 
